@@ -1,6 +1,6 @@
 
 
-Welcome. Olivera here, a backend engineer. I’m currently working with Scala.
+Welcome. Olivera here, a backend engineer currently working with Scala.
 
 
 
