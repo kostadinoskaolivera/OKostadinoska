@@ -1,10 +1,8 @@
-### Hi there 👋
 
-I am Olivera, a software engineer.  
+
+I am Olivera, a backend engineer.  
 
 - I’m currently working with Scala.
-
-
 
 
 
